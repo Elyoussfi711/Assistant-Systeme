@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.zip
+*.rar
+*.7z
+*.exe
+*.mp4
+*.mov
+*.iso
